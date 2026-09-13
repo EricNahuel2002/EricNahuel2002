@@ -1,6 +1,6 @@
 <h1 align="center">Hola soy Eric</h1> <p align="left">
 
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="www.linkedin.com/in/eric-a-828895378" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="mailto:ericaquino2002@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@ericaquino2002@gmail.com"/></a>
 <a href="https://eric-aquino.site/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="@website"/></a>
 
